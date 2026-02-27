@@ -1,6 +1,24 @@
 # <a href="https://www.linkedin.com/in/janetkesinro/">Janet Kesinro</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+👩🏽‍💻 Janet | Cybersecurity Analyst
+
+I specialize in vulnerability management, exposure analysis, and enterprise risk reduction. My work focuses on deep CVE analysis, CVSSv3 scoring, exploit validation, and translating technical findings into actionable remediation strategies.
+
+Through hands-on projects, I explore:
+
+* Vulnerability triage and risk-based prioritization
+
+* Threat detection and security operations workflows
+
+* Red team finding analysis
+
+* Risk alignment with frameworks like NIST, SOC 2, and ISO 27001
+
+* Process improvement within security programs
+
+I am currently expanding my skill set by learning Agentic AI and exploring how autonomous AI agents can support security automation, threat analysis, and operational efficiency.
+
+Feel free to explore my repositories to see how I approach real-world security challenges.
 
 
 ## ⚠️ Vulnerability Management Projects
