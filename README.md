@@ -25,6 +25,7 @@ Feel free to explore my repositories to see how I approach real-world security c
 
 - **[Vulnerability Management Program Implementation](https://github.com/JanetKesinro/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- [DISA STIG Remediation ](https://github.com/janetkesinro/DISA-STIG-Remediation)
 
 ## 🚨 Threat Hunting and Security Operations
 
