@@ -1,4 +1,25 @@
-# <a href="https://www.linkedin.com/in/janetkesinro/">Janet Kesinro</a>'s IT and Cybersecurity Project Portfolio 🔐
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+JanetKesinro!;" />
+</h1>
+
+<h3 align="center">👋  Security Engineer & Vulnerability Management </h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+![Visitors](https://komarev.com/ghpvc/?username=Janetkesinro&label=Visitors&color=brightgreen&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 👩🏽‍💻 Janet | Cybersecurity Analyst
 
