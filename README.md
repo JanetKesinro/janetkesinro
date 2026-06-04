@@ -42,6 +42,7 @@ I am currently expanding my skill set by learning Agentic AI and exploring how a
 Feel free to explore my repositories to see how I approach real-world security challenges.
 
 
+### 🔵 BLUE TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JanetKesinro/Vulnerability-Management-Program)**
