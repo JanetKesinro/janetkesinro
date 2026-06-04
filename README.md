@@ -54,7 +54,6 @@ Feel free to explore my repositories to see how I approach real-world security c
 
 <hr/>
 
----
 <h2>🧰 Tools:</h2>
 
 ### Agentic AI
