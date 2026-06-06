@@ -51,7 +51,7 @@ Feel free to explore my repositories to see how I approach real-world security c
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting: Tor Browser Usage](https://github.com/JanetKesinro/threat-hunting-scenario-tor)**
-- **[Threat Hunting: Rocky Clinic OpenEMR Breach]((https://github.com/JanetKesinro/Threat-Hunt_Rocky-Clinic-OpenEMR-Breach))**
+- **[Threat Hunting: Rocky Clinic OpenEMR Breach](https://github.com/JanetKesinro/Threat-Hunt_Rocky-Clinic-OpenEMR-Breach)**
 
 <hr/>
 
