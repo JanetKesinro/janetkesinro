@@ -23,7 +23,7 @@
 
 👩🏽‍💻 Janet | Cybersecurity Analyst
 
-I specialize in vulnerability management, exposure analysis, and enterprise risk reduction. My work focuses on deep CVE analysis, CVSSv3 scoring, exploit validation, and translating technical findings into actionable remediation strategies.
+I specialize in vulnerability management, exposure analysis, and enterprise risk reduction. My work focuses on deep CVE analysis, CVSS scoring, exploit validation, and translating technical findings into actionable remediation strategies.
 
 Through hands-on projects, I explore:
 
