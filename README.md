@@ -42,6 +42,10 @@ I am currently expanding my skill set by learning Agentic AI and exploring how a
 Feel free to explore my repositories to see how I approach real-world security challenges.
 
 ---
+Agentic AI Engineer Projects
+
+- **[Agentic AI Red_Team_Scanner](https://github.com/JanetKesinro/Red_Team_Scanner/blob/main/README.md)**
+
 ### 🔵 BLUE TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
 
