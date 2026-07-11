@@ -46,8 +46,9 @@ Feel free to explore my repositories to see how I approach real-world security c
 
 ### 🤖 Agentic AI Engineer Projects 🤖
 
-- **[Agentic AI Red_Team_Scanner](https://github.com/JanetKesinro/Red_Team_Scanner/blob/main/README.md)**
-- **[Agentic AI Security Orchestrator (Aegis-AI)](https://github.com/JanetKesinro/Aegis-AI/blob/master/README.md)**
+- **[Agentic AI: Red_Team_Scanner](https://github.com/JanetKesinro/Red_Team_Scanner/blob/main/README.md)**
+- **[Agentic AI: Security Orchestrator (Aegis-AI)](https://github.com/JanetKesinro/Aegis-AI/blob/master/README.md)**
+- **[Agentic AI: Cybersecurity Threat Analysis with GPT-4o & CVSS Scoring](https://github.com/JanetKesinro/Cybersecurity_alerts)**
 
 ### 🔵 BLUE TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
