@@ -42,8 +42,8 @@ I am currently expanding my skill set by learning Agentic AI and exploring how a
 Feel free to explore my repositories to see how I approach real-world security challenges.
 
 ---
-### Cybersecurity 101
-
+### Back to the Basics
+- **[CIA-Triad Overview](https://github.com/JanetKesinro)**
 
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
