@@ -43,7 +43,7 @@ Feel free to explore my repositories to see how I approach real-world security c
 
 ---
 ### Back to the Basics
-- **[CIA-Triad Overview](https://github.com/JanetKesinro)**
+- **[CIA-Triad Overview](https://github.com/JanetKesinro/CIA-Triad-Overview)**
 
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
