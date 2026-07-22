@@ -55,6 +55,13 @@ Feel free to explore my repositories to see how I approach real-world security c
 - **[Agentic AI: Cybersecurity Threat Analysis with GPT-4o & CVSS Scoring](https://github.com/JanetKesinro/Cybersecurity_alerts)**
 - **[Agentic AI: CVE_Intelligence_& Risk_Prioritization_Platform](https://github.com/JanetKesinro/CVE_Intelligence_Risk_Prioritization_Platform)**
 
+
+💻 **Software Engineering & Web Development:**
+---
+
+* [Next.js Kanban Board (Client-Rendered)](https://github.com/JanetKesinro/kanban-mvp)
+
+
 ### 🔵 BLUE TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
 
