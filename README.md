@@ -59,7 +59,7 @@ Feel free to explore my repositories to see how I approach real-world security c
 💻 **Software Engineering & Web Development:**
 ---
 
-* [Next.js Kanban Board (Client-Rendered)](https://github.com/JanetKesinro/kanban-mvp)
+**[Next.js Kanban Board (Client-Rendered)](https://github.com/JanetKesinro/kanban-mvp)**
 
 
 ### 🔵 BLUE TEAM 🔵
