@@ -59,6 +59,8 @@ Feel free to explore my repositories to see how I approach real-world security c
 💻 **Software Engineering & Web Development:**
 ---
 
+**[AI Security Portfolio Website (Next.js 16 & Tailwind CSS)](https://github.com/JanetKesinro/portfolio)**
+
 **[Next.js Kanban Board (Client-Rendered)](https://github.com/JanetKesinro/kanban-mvp)**
 
 
